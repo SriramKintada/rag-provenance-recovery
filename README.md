@@ -180,4 +180,4 @@ Academic project for Parameter Estimation course, IISER Pune.
 
 Sriram Kintada
 IISER Pune
-sriram.kintada@students.iiserpune.ac.in
+kintada.sriram@students.iiserpune.ac.in
