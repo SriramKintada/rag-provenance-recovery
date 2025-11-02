@@ -1,0 +1,26 @@
+[
+  {
+    "doc_id": "arxiv_0",
+    "title": "Entanglement-assisted circuit knitting",
+    "url": "https://arxiv.org/abs/2510.26789",
+    "source": "arxiv",
+    "text_length": 45042,
+    "file_path": "data/raw\\arxiv_0.txt"
+  },
+  {
+    "doc_id": "arxiv_1",
+    "title": "\"Enough\" Wigner negativity implies genuine multipartite entanglement",
+    "url": "https://arxiv.org/abs/2510.26761",
+    "source": "arxiv",
+    "text_length": 49823,
+    "file_path": "data/raw\\arxiv_1.txt"
+  },
+  {
+    "doc_id": "arxiv_2",
+    "title": "Probing Topological Phases in a Strongly Correlated Ladder Model via Entanglement",
+    "url": "https://arxiv.org/abs/2510.26713",
+    "source": "arxiv",
+    "text_length": 80464,
+    "file_path": "data/raw\\arxiv_2.txt"
+  }
+]
